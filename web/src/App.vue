@@ -18,7 +18,7 @@ export default {
 <style>
 body{
   /* @ means the src directory */
-  background-image: url("@/assets/background.png");
+  background-image: url("@/assets/images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
