@@ -4,9 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/battle/")
+//@RequestMapping("/battle/")
 public class IndexController {
-    @RequestMapping("index/")
+    @RequestMapping("/")
     public String index(){
         return "battle/index.html";
     }
