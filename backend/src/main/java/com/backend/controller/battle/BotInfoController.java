@@ -1,4 +1,4 @@
-package com.andyzhu.backend.controller.battle;
+package com.backend.controller.battle;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

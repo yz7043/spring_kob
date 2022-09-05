@@ -1,5 +1,5 @@
-package com.andyzhu.backend.mapper;
-import com.andyzhu.backend.pojo.User;
+package com.backend.mapper;
+import com.backend.pojo.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 @Mapper

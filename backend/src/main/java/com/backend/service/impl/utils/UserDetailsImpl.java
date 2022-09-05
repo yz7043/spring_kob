@@ -1,6 +1,6 @@
-package com.andyzhu.backend.service.impl.utils;
+package com.backend.service.impl.utils;
 
-import com.andyzhu.backend.pojo.User;
+import com.backend.pojo.User;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

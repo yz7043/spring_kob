@@ -1,4 +1,4 @@
-package com.andyzhu.backend.controller.battle;
+package com.backend.controller.battle;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
